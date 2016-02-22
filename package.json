@@ -1,0 +1,31 @@
+{
+  "name": "js-templates.example",
+  "description": "A template for example files",
+  "keywords": [
+    "js",
+    "templates",
+    "example",
+    "a",
+    "template",
+    "for",
+    "files"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "dependencies": {
+    "camelo": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/js-templates.example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/js-templates.example/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/js-templates.example#readme"
+}
