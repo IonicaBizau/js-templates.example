@@ -1,14 +1,18 @@
+
 # js-templates.example [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/js-templates.example.svg)](https://www.npmjs.com/package/js-templates.example) [![Downloads](https://img.shields.io/npm/dt/js-templates.example.svg)](https://www.npmjs.com/package/js-templates.example) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A template for example files.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save js-templates.example
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const exampleTemplate = require("js-templates.example");
@@ -21,7 +25,8 @@ console.log(exampleTemplate("foo"));
 // console.log(foo());
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `exampleTemplate(name)`
 Generates a template file for examples.
@@ -32,15 +37,18 @@ Generates a template file for examples.
 #### Return
 - **String** The rendered template.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`js-templates`](https://github.com/IonicaBizau/js-templates#readme)
 
-## License
+ - [`js-templates`](https://github.com/IonicaBizau/js-templates#readme)—Generate JS code templates.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
