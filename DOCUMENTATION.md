@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Generates a template file for examples.
 
 #### Params
+
 - **String** `name`: The function name.
 
 #### Return
